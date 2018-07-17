@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BestDocUser.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>5E4FA42501FADADD11E1E1FA9E868EF09F6F9AA4</string>
+				<key>dateExpires</key>
+				<string>14/12/18</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>5E4FA42501FADADD11E1E1FA9E868EF09F6F9AA4</string>
+						<key>dateExpires</key>
+						<string>14/12/18</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SJSegmentedScrollView.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4H2S3P7JA6</string>
+						<key>name</key>
+						<string>BestDoc Technology Private Limited</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>4H2S3P7JA6.Nithis.BestDocUser</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4H2S3P7JA6</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>4H2S3P7JA6.Nithis.BestDocUser</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>BestDocUser.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f0cf88bb-a73d-4588-94d4-d7e172e35cdb</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4H2S3P7JA6</string>
+				<key>name</key>
+				<string>BestDoc Technology Private Limited</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

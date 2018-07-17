@@ -1,0 +1,6 @@
+framework module Pods_BestDocUser {
+  umbrella header "Pods-BestDocUser-umbrella.h"
+
+  export *
+  module * { export * }
+}
